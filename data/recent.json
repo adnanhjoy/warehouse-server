@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "Autumn",
+        "image": "https://iqit-commerce.com/ps16/modules/ph_simpleblog/covers/13-thumb.jpg",
+        "title": "Is warehouse greats",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a diam odio. Nulla posuere ultricies laoreet.",
+        "date": "12/2/2023",
+        "category": "news"
+    },
+    {
+        "id": "2",
+        "name": "Autumn",
+        "image": "https://iqit-commerce.com/ps16/modules/ph_simpleblog/covers/12-thumb.jpg",
+        "title": "Nobody knows",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a diam odio. Nulla posuere ultricies laoreet.",
+        "date": "12/2/2023",
+        "category": "news"
+    },
+    {
+        "id": "3",
+        "name": "Autumn",
+        "image": "https://iqit-commerce.com/ps16/modules/ph_simpleblog/covers/11-thumb.jpg",
+        "title": "Your Style is great",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a diam odio. Nulla posuere ultricies laoreet.",
+        "date": "12/2/2023",
+        "category": "news"
+    },
+    {
+        "id": "4",
+        "name": "Autumn",
+        "image": "https://iqit-commerce.com/ps16/modules/ph_simpleblog/covers/8-thumb.jpg",
+        "title": "Time to change",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a diam odio. Nulla posuere ultricies laoreet.",
+        "date": "12/2/2023",
+        "category": "news"
+    },
+    {
+        "id": "5",
+        "name": "Autumn",
+        "image": "https://iqit-commerce.com/ps16/modules/ph_simpleblog/covers/13-thumb.jpg",
+        "title": "Is warehouse greats",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a diam odio. Nulla posuere ultricies laoreet.",
+        "date": "12/2/2023",
+        "category": "news"
+    },
+    {
+        "id": "6",
+        "name": "Autumn",
+        "image": "https://iqit-commerce.com/ps16/modules/ph_simpleblog/covers/12-thumb.jpg",
+        "title": "Nobody knows",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a diam odio. Nulla posuere ultricies laoreet.",
+        "date": "12/2/2023",
+        "category": "news"
+    }
+]
